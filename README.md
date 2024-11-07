@@ -3,6 +3,9 @@ ___
 
 ## Practising Git Fork and pull Request
 
-- **Git** is a version control
-- I am **Mohamed Irfanullah M**
-- Pushing my **code** to the repo
+- **Git** is a version control.
+- **We** are Backend Developers.
+___
+
+[Code pushed by 😊 ](https://github.com/irfan-webizze)
+___
